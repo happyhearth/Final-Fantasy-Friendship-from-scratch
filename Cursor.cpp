@@ -1,3 +1,5 @@
+//Processes cursor imaging.
+
 #include "Main.h"
 #include "Cursor.h"
 
